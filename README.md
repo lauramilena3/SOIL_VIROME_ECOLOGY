@@ -44,15 +44,7 @@ Note: Paths and computational resources should be adjusted according to local sy
 
 ## Summary and Visualization
 
-A summary of the results and downstream analyses can be found in the Jupyter notebook:
-
-- `soil_virome_summary.ipynb`
-
-This notebook includes:
-- Overview of virome composition
-- Ecological analyses
-- Carbon-cycling functional annotations
-- Figures and summary statistics used in the manuscript
+A summary of the results and downstream analyses can be found in the Jupyter notebooks
 
 ## Citation
 
