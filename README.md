@@ -10,7 +10,7 @@ This repository contains scripts and workflows used to analyze soil viral metage
 
 ## Overview
 
-All analyses were performed using the **MOSAC** workflow. Detailed descriptions of the workflow steps, tools, and parameters are provided in the associated manuscript.
+All analyses were performed using the **MOSAC** workflow (https://github.com/lauramilena3/MOSAIC). Detailed descriptions of the workflow steps, tools, and parameters are provided in the associated manuscript.
 
 This repository primarily serves to:
 - Document the computational workflow used in the study  
